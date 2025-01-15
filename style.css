@@ -11,18 +11,6 @@ body {
     width: 100%;
 }
 
-#navbar a {
-    float: right;
-    color: #100808;
-    font-size: 1.6em;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    display: block;
-    height: 100%;
-    line-height: 100%; 
-}
-
 #navbar a.active {
     color: #438acc; 
 }
