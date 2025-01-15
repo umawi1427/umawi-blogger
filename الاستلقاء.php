@@ -3,7 +3,6 @@ session_start();
 ?>
 <!DOCTYPE html>
 <html lang="ar">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,14 +11,8 @@ session_start();
     <link rel="stylesheet" href="style.css">
 
 </head>
-
 <body>
     <nav id="navbar">
-        <a href="index.php"><img id="imgIcon" src="images/homepageIcon.png"></a>
-        <div id="nav-links">
-            <a href="poems.php" class="active">الأشعار</a>
-            <a href="books.php">الرسائل</a>
-            <nav id="navbar">
         <a href="index.php"><img id="imgIcon" src="images/homepageIcon.png"></a>
         <div id="nav-links">
             <a href="poems.php" class="active">الأشعار</a>
@@ -35,7 +28,6 @@ session_start();
             ?>
         </div>
     </nav>
-
     <table class="poem" style="height: 120px;">
         <tr>
             <th class="justify">وَاللَّهُ مُسْتَلِقٌ عَلَى عَرْشٍ لَهُ</th>
@@ -54,5 +46,4 @@ session_start();
         <a href="النووي.php">يا من تحبون النواوي الكافرا<span>&#8680;</span></a>
     </div>
 </body>
-
 </html>
