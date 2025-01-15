@@ -32,7 +32,6 @@ session_start();
     </nav>
 
     <h1 class="h">أسماء الله الحسنى</h1>
-    <a class="downloadLink" href="downloads/أسماء الله الحسنى من القرءان والسنة.pdf" style="font-size: 30px">[اضغط هنا للتحميل]</a>
     <ol class="p">
         <li>اللَّه: قُلْ هُوَ اَللَّهُ أَحَدٌ</li>
         <li>الأحد: قُلْ هُوَ اَللَّهُ أَحَدٌ</li>
