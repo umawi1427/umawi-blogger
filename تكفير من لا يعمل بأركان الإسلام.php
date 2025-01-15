@@ -3,16 +3,13 @@ session_start();
 ?>
 <!DOCTYPE html>
 <html lang="ar">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>أبو الحكم الأموي</title>
     <link rel="icon" type="image/jpg" href="images/homepageIcon.png">
     <link rel="stylesheet" href="style.css">
-
 </head>
-
 <body>
     <nav id="navbar">
         <a href="index.php"><img id="imgIcon" src="images/homepageIcon.png"></a>
@@ -30,9 +27,7 @@ session_start();
             ?>
         </div>
     </nav>
-    
     <h1 class="h">تكفير من لا يعمل بأركان الإسلام</h1>
-    <a class="downloadLink" href="downloads/تكفير من لا يعمل بأركان الإسلام.pdf" style="font-size: 30px">[اضغط هنا للتحميل]</a>
     <h2 class="h1">الصلاة</h2>
     <h3 class="h2">باب كفر تارك الصلاة</h3>
     <p class="p">1) قال الله: فإن تابوا وأقاموا الصلاة وآتوا الزكاة فإخوانكم في الدين</p>
