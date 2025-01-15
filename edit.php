@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 include("php/config.php");
 if (!isset($_SESSION['valid'])) {
     header("Location: login.php");
@@ -14,7 +13,6 @@ if (!isset($_SESSION['valid'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/jpg" href="images/homepageIcon.png">
-
     <title>أبو الحكم الأموي</title>
 </head>
 <body>
